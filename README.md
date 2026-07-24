@@ -24,17 +24,18 @@ Besides paper reviews, there are also incredible blog posts available. Jay Alamm
 ## Lectures and Talks
 Beyond blog posts and paper reviews, you can also find some amazing lectures & talks on Transformers and self-attention online. Stanford CS224u's lecture goes into more details on the math, BERT and other contextual vectors, whereas the Stanford CS224n guest lecture (by the co-authors of the Transformer and Music Transformer) cover various use cases of self-attention. Rachel (and Jeremy) from fast.ai give another great overview of Transformer in their Intro To NLP course, but also answer some of the common confusions around Transformers such as the query, key, value system and address its application to language translation. Finally, if you want to hear more from the co-authors of the Transformer, Lukasz Kaiser and Ashish Vaswani each gave a wonderful talk on their work at Pi School 2017 and RAAIS 2019 respectively.
 
-- [Stanford CS25: Transformers United](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
+- [Stanford CS25: Transformers United](https://www.youtube.com/watch?v=P127jhj-8-Y)
 - [Stanford CS224u](https://www.youtube.com/watch?v=lzBB7xoZ3Q8&t=746s)
 - [Stanford CS224n](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1211s)
 - [fastai Introduction to Transformers](https://www.youtube.com/watch?v=AFkGPmU16QA&list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9&index=18&t=848s)
 - [Lukasz Kaiser's Talk](https://www.youtube.com/watch?v=rBCqOTEfxvg&t=1075s)
-- [Ashish Vaswani's Talk](https://www.youtube.com/watch?v=5vcj8kSwBCY&t=1212s)
+- [Ashish Vaswani's Talk](https://www.youtube.com/watch?v=bYmeuc5voUQ)
+
 
 ## Code Walkthroughs 
 One of the best ways to understand a concept is implementing it in code. Harvard NLP published an annotated version of the original paper with commented-out code in PyTorch, which is discussed in one of the recorded AISC sessions linked below. If you prefer TensorFlow, there is also a TensorFlow 2.0 Tutorial with a Colab notebook that you can run for free. Once you're comfortable with the basic concepts, check out the NAACL Tutorial on Transfer Learning, which has an amazing Colab that teaches you how to pre-train a GPT2-like Transformer, fine-tune it and do multi-task learning as well as an amazing slide deck full of information about recent developments in Transfer Learning for Natural Language Processing.
 - [Transformers Papers Annotated With Code](https://nn.labml.ai/transformers/index.html)
-- [Harvard NLP's The Annotated Transformer](https://www.youtube.com/watch?v=KMY2Knr4iAs)
+- [Harvard NLP's The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 - [AISC Video Recording of Code Review in PyTorch](https://www.youtube.com/watch?v=KMY2Knr4iAs)
 - [Transformers in TensorFlow 2.0](https://www.tensorflow.org/beta/tutorials/text/transformer)
 - [NAACL Tutorial Slides](http://tiny.cc/NAACLTransfer)
@@ -91,5 +92,3 @@ Since the original paper was published, there has been a massive wave of papers 
 - [Microsoft Reading Group on Transformer XL](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
 - [Yannic Kilcher](https://www.youtube.com/watch?v=H5vpBCLo74U)
 - [NLP Breakfasts' Overview of XLNet](https://www.youtube.com/watch?v=cXZ9YBqH3m0&t=2226s)
-
-
